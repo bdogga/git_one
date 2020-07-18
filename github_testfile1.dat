@@ -3,7 +3,7 @@
 program area_qt
 
     implicit none
-    real*16 :: area
+    real*8 :: area
     character :: fig
     real*8, external :: tri, sq
     real*8 ::a,b,c,s,l,w
